@@ -10,11 +10,15 @@ font-family: 'Roboto', sans-serif;
 h1 {
   margin: 0;
   font-size: 45px;
+  color: #FF0018;
   font-family: 'Londrina Solid', cursive;
 }
 
 h2 {
+  margin: 0;
   font-size: 25px;
+  color: #FFA52C;
+  font-family: 'Londrina Solid', cursive;
 }
 
 section {
@@ -31,6 +35,7 @@ section.header {
 }
 
 section.video {
+  color: #FFFF41;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -44,6 +49,7 @@ section.video iframe {
 }
 
 section.projects {
+  color: #008018;
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -52,6 +58,7 @@ section.projects {
 }
 
 div.project {
+  color: #0000F9;
   flex: 1 0;
   margin: 40px;
   min-width: 300px;

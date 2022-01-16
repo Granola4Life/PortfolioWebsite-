@@ -17,21 +17,25 @@ h1 {
 h2 {
   margin: 0;
   font-size: 25px;
-  color: #FFA52C;
   font-family: 'Londrina Solid', cursive;
 }
 
 section {
   max-width: 1200px;
   margin: 0 auto;
+  color: #FFA52C;
 }
 
 section + section {
   margin-top: -40px;
+  color: #FFFF41;
+
 }
 
 section.header {
   padding: 40px;
+  color: #0000F9;
+
 }
 
 section.video {
@@ -58,7 +62,7 @@ section.projects {
 }
 
 div.project {
-  color: #0000F9;
+  color: #EEE;
   flex: 1 0;
   margin: 40px;
   min-width: 300px;

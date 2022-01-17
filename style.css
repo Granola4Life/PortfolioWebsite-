@@ -38,6 +38,12 @@ section.header {
 
 }
 
+section.header {
+  padding: 40px;
+  color: #00B6B4;
+
+}
+
 section.video {
   color: #f6bfbc;
   display: flex;

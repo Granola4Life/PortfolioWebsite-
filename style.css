@@ -39,7 +39,7 @@ section.header {
 }
 
 section.video {
-  color: #FFFF41;
+  color: #f6bfbc;
   display: flex;
   flex-direction: row;
   align-items: center;

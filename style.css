@@ -27,6 +27,42 @@ h3 {
   font-family: 'Londrina Solid', cursive;
 }
 
+h4 {
+  margin: 0;
+  font-size: 25px;
+  color: #F7B685;
+  font-family: 'Londrina Solid', cursive;
+}
+
+h5 {
+  margin: 0;
+  font-size: 25px;
+  color: #F3EBA5;
+  font-family: 'Londrina Solid', cursive;
+}
+
+h6 {
+  margin: 0;
+  font-size: 25px;
+  color: #94C691;
+  font-family: 'Londrina Solid', cursive;
+}
+
+h7 {
+  margin: 0;
+  font-size: 25px;
+  color: #9BD6D9;
+  font-family: 'Londrina Solid', cursive;
+}
+
+h8 {
+  margin: 0;
+  font-size: 25px;
+  color: #B4A8E0;
+  font-family: 'Londrina Solid', cursive;
+}
+
+
 section {
   max-width: 1200px;
   margin: 0 auto;

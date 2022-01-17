@@ -38,12 +38,6 @@ section.header {
 
 }
 
-section.header bold {
-  padding: 40px;
-  color: #ad8dc6;
-
-}
-
 section.video {
   color: #f6bfbc;
   display: flex;

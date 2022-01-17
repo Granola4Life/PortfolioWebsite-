@@ -23,12 +23,12 @@ h2 {
 section {
   max-width: 1200px;
   margin: 0 auto;
-  color: #FFA52C;
+  color: #79f8f8;
 }
 
 section + section {
   margin-top: -40px;
-  color: #f6bfbc;
+  color: #9370db;
 
 }
 

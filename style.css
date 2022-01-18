@@ -2,15 +2,15 @@
 
 body {
   margin: 0;
-  background-color: #111;
-  color: #EEE;
+  background-color: #EEE;
+  color: #111;
 font-family: 'Roboto', sans-serif;
 }
 
 h1 {
   margin: 0;
   font-size: 45px;
-  color: #EEE;
+  color: #111;
   font-family: 'Londrina Solid', cursive;
 }
 
@@ -114,7 +114,7 @@ section.projects {
 }
 
 div.project {
-  color: #EEE;
+  color: #111;
   flex: 1 0;
   margin: 40px;
   min-width: 300px;
